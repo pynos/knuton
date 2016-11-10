@@ -1,0 +1,4 @@
+include ':libcocos2dx'
+project(':libcocos2dx').projectDir = new File(settingsDir, '../cocos2d/cocos/platform/android/libcocos2dx')
+include ':knuton_mobile'
+project(':knuton_mobile').projectDir = new File(settingsDir, 'app')

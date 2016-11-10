@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.knuton.knuton_mobile" version="1.0.0">
+    <ui-application appid="com.knuton.knuton_mobile" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>knuton_mobile</label>
+        <icon>knuton_mobile.png</icon>
+    </ui-application>
+</manifest>
